@@ -1,13 +1,61 @@
-Hi, I'm Kun 👋
+# Hi, I'm Kun 👋
 
-I am currently a Master's student in Computer Science and Technology at Beijing Jiaotong University (BJTU), advised by Prof. Sang Jitao.
+Outside of research and coding, I enjoy simple things — including cabbage 🥬.
 
-I received my bachelor's degree in Computer Technology from Beijing Jiaotong University in 2025. My current interests mainly focus on Reinforcement Learning and AI Agent systems, especially the design and implementation of agent frameworks.
+---
 
-I mainly work with C++ and Python, and I am always interested in turning ideas into practical systems.
+## 🎓 Education
 
-Outside of research and coding, I enjoy simple things — including Chinese cabbage 🥬.
+**Beijing Jiaotong University**
+Master's Degree in Computer Science and Technology
+*Sep. 2025 – Present*
 
-求知与实践间，留下思考。
+* Advisor: **Prof. Sang Jitao**
+* Research interests: Reinforcement Learning, AI Agents, Agent Frameworks
 
-📧 Email: ChaconGansburg@gmail.com
+**Beijing Jiaotong University**
+Bachelor's Degree in Computer Technology
+*Sep. 2021 – Jun. 2025*
+
+* CET-6
+
+---
+
+## 🔬 Research Interests
+
+* **Reinforcement Learning**
+  Learning decision-making policies through interactions with environments.
+
+* **AI Agents**
+  Exploring autonomous systems capable of reasoning, planning, tool use, and interaction.
+
+* **Agent Frameworks**
+  Building practical frameworks for developing and evaluating intelligent agents.
+
+---
+
+## 🛠 Tech Stack
+
+**Programming Languages**
+
+* C++
+* Python
+
+**Research & Development**
+
+* Reinforcement Learning
+* AI Agent Systems
+* Agent Framework Development
+
+---
+
+## 📫 Contact
+
+📧 **Email:** [ChaconGansburg@gmail.com](mailto:ChaconGansburg@gmail.com)
+🌐 **Homepage:** [yuanzhenkun17.github.io](https://yuanzhenkun17.github.io/)
+
+---
+
+> Stay curious. Build, experiment, and think.
+>
+> **求知与实践间，留下思考。**
